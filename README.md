@@ -3,6 +3,8 @@
 A **recipe generator** powered by Google **Gemini AI** that creates custom recipes based on the ingredients you have. You can also **filter recipes** based on dietary restrictions like vegan, vegetarian, gluten-free, or keto.  
 
 ---
+🔗 Live Demo: [https://recipie-generator.vercel.app/](https://recipie-generator.vercel.app/)
+
 
 ## 🌟 Features
 
